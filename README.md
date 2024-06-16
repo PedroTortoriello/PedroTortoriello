@@ -1,4 +1,4 @@
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo Pedro Tortoriello 👋
 
 ### Sobre mim
 
