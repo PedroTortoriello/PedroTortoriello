@@ -27,6 +27,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
 
 
 ### Eu estou estudando... 🧩
@@ -40,5 +42,9 @@
 <div>
 <a href="https://github.com/PedroTortoriello">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTortoriello&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroTortorielloshow_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=PedroTortoriello&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
 </div>
