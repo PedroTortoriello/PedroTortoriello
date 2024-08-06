@@ -2,12 +2,10 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou um desenvolvedor Front-End | Back-End | Fullstack
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack]
+🎓 Eu estudo Análise e Desenvolvimento de Sistemas na Universidade FACENS
 
 
 👩‍💻 Atualmente eu trabalho como Estagiário em Desenvolvimento FullStack na Four Tecnologia
