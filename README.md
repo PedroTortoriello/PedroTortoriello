@@ -8,7 +8,7 @@
 🎓 Eu estudo Análise e Desenvolvimento de Sistemas na Universidade FACENS
 
 
-👩‍💻 Atualmente eu trabalho como Estagiário em Desenvolvimento FullStack na Four Tecnologia
+👩‍💻 Atualmente eu trabalho como Desenvolvedor JR FullStack na Rush Co
 
 
 ### Eu já trabalhei com... 🔧
